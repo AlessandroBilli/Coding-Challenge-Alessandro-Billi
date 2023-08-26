@@ -1,0 +1,82 @@
+body {
+  background-image:url("img/background.jpg");
+  background-size: 100%;
+  background-size: cover;
+  font-family: 'Poppins', sans-serif;
+}
+
+header {
+  text-align: center;
+}
+
+.container {
+  background-color: rgba(0, 0, 0, 0.5);
+  width: 65%;
+  height: 90%;
+  margin: 50px auto;
+  border-radius: 30px;
+  padding-bottom: 50px;
+}
+
+h1{  font-family: 'Poppins', sans-serif;
+color: lime;
+font-size: 170%;
+margin-top: 0%;
+}
+
+#logo{
+      padding-top: 100px;
+      width:15%;
+      height: auto;
+      margin-top: 0px;
+
+}
+
+nav{
+  width: 70%;
+  height: 40px;
+  background-color: lime;
+  margin: 0 auto;
+
+}
+
+main{
+  padding-top: 25px;
+  color: white;
+  width: 70%;
+  margin: 0 auto;
+}
+
+.navigazione{
+  margin: 10px;
+
+}
+
+
+.fontSize12 { 
+  font-size: 12px;
+} 
+
+#orangeBar{
+    width:270px;
+    height: 25px;
+    background-color:rgb(251, 171, 84);
+    border-radius: 5px;
+}
+
+.distanzaMonopattino{
+  margin-top: 20px;
+}
+
+#greenBar{width:500px;
+   height: 25px;
+   background-color:rgb(0, 178, 0);
+   border-radius: 5px;
+
+}
+
+#redBar{width:150px;
+   height: 25px;
+   background-color:rgb(166, 16, 53);
+   border-radius: 5px;
+}
